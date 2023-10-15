@@ -117,6 +117,10 @@ section>div>div:nth-last-child(1)>div {
     text-align: right;
 }
 
+.skills{
+    margin-top: 15px;
+}
+
 @page {
     size: 210mm 297mm;
     margin: 0.25in 0.75in;
