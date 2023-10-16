@@ -66,6 +66,7 @@ span {
 a {
     font-size: 13px;
     font-family: var(--content);
+    color: rgb(38, 3, 161);
 }
 
 ul {
