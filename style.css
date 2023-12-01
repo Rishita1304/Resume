@@ -2,7 +2,7 @@
     --heading: 'Raleway', sans-serif;;
     --content: 'Inter', sans-serif;
     --primary: #000000;
-    --secondary: #384347;
+    --secondary: #434d52;
 }
 
 * {
@@ -34,6 +34,7 @@ h3 {
 
 h4 {
     font-size: 16px;
+    margin-bottom: 3px;
     color: var(--primary);
 }
 
@@ -103,6 +104,10 @@ section>div {
     margin-bottom: 5px;
     display: flex;
     justify-content: space-between;
+}
+
+li{
+    margin: 4px 0;
 }
 
 section>div>div>span {
