@@ -26,7 +26,7 @@ const Projects = () => {
             title: "ApnaSafar - Hotel Booking Website",
             url: "https://apna-safar.vercel.app",
             stack: "React.js, Multer, Node.js, Express.js, MongoDB",
-            description: " its intuitive interface and comprehensive listings. It aggregates offerings from various hotels and resorts, allowing users to seamlessly search, compare, and reserve accommodations.",
+            description: "It simplifies hotel booking with its intuitive interface and comprehensive listings. It aggregates offerings from various hotels and resorts, allowing users to seamlessly search, compare, and reserve accommodations.",
             
         },
         {
