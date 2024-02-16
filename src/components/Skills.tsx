@@ -13,9 +13,9 @@ const Skills = () => {
   const tools = [
     "VS Code",
     "Android Studio",
-    "Postman",
     "Git",
     "Vercel",
+    "Render",
   ];
   const db = ["MongoDB", "MySQL", "Firebase", "PostgreSQL"];
 
