@@ -7,6 +7,7 @@ const Skills = () => {
     "React Native",
     "Node.js",
     "Express.js",
+    "OAuth",
   ];
   const tools = [
     "VS Code",
