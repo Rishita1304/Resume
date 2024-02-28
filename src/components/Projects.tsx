@@ -33,7 +33,7 @@ const Projects = () => {
             title: "UpDriven - Carpooling platform ",
             url: "https://updriven.onrender.com",
             stack: "OAuth, Socket.io, React.js, Node.js",
-            description: "transportation by connecting drivers and passengers for shared rides. Say goodbye to traffic congestion and carbon emissions with this innovative carpooling solution.",
+            description: "passengers for shared rides. Say goodbye to traffic congestion and carbon emissions with this innovative carpooling solution.",
         },
         {
             title: "E-Shoppers - E-Commerce store",
