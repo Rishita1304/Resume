@@ -20,7 +20,7 @@ const Projects = () => {
             title: "ImaginAI - AI-based SaaS platform",
             url: "https://imagin-ai-git-main-rishita1304s-projects.vercel.app/",
             stack: "Next.js, Cloudinary AI, Clerk, Stripe, MongoDB",
-            description: "powered image proceesing platform that consolidates advanced image processing tools, secure payment integration, and robust search capabilities, empowering users to effortlessly enhance, manipulate, and manage visual content.",
+            description: " platform that consolidates advanced image processing tools, secure payment integration, and robust search capabilities, empowering users to effortlessly enhance, manipulate, and manage visual content.",
         },
         {
             title: "ApnaSafar - Hotel Booking Website",
