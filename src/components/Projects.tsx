@@ -39,7 +39,7 @@ const Projects = () => {
             title: "E-Shoppers - E-Commerce store",
             url: "https://ecom-fdtv.onrender.com",
             stack: "React.js, Redux, Node.js, MongoDB, Firebase",
-            description: "It offers a seamless online shopping experience, featuring a diverse range of products and secure transaction capabilities. From electronics to fashion, customers can explore and purchase items with confidence.",
+            description: "online shopping experience, featuring a diverse range of products and secure transaction capabilities. From electronics to fashion, customers can explore and purchase items with confidence.",
         }
     ];
 
