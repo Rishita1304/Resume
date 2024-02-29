@@ -18,7 +18,7 @@ const Skills = () => {
     "Vercel",
     "Render",
   ];
-  const db = ["MongoDB", "MySQL", "PostgreSQL"];
+  const db = ["MongoDB", "PostgreSQL"];
 
   return (
     <section className="mb-5 lg:mb-2.5">
