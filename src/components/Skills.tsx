@@ -8,7 +8,6 @@ const Skills = () => {
     "Node.js",
     "Express.js",
     "Prisma",
-    "OAuth",
   ];
   const tools = [
     "VS Code",
