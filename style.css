@@ -116,7 +116,8 @@ section>div>div>span {
     padding: 0.3rem;
     border-radius: 5px;
     color: var(--primary);
-    margin-right: 5px;
+    font-size: 12px;
+    margin-left: 4px;
 }
 
 section>div>div:nth-last-child(1)>div {
