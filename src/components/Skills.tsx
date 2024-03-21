@@ -7,7 +7,6 @@ const Skills = () => {
     "React Native",
     "Node.js",
     "Express.js",
-    "Prisma",
     "OAuth",
   ];
   const tools = [
@@ -15,7 +14,6 @@ const Skills = () => {
     "Android Studio",
     "Postman",
     "Git",
-    "Github",
     "Vercel",
     "Render",
   ];
