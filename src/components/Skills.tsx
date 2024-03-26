@@ -15,6 +15,7 @@ const Skills = () => {
     "Android Studio",
     "Postman",
     "Git",
+    "Github",
     "Vercel",
     "Render",
   ];
