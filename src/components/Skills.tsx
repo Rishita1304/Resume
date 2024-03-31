@@ -1,5 +1,5 @@
 const Skills = () => {
-  const languages = ["C/C++", "JavaScript", "Typescript", "Python"];
+  const languages = ["C/C++", "JavaScript", "Typescript"];
   const lib = [
     "Next.js",
     "React.js",
