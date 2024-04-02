@@ -16,7 +16,6 @@ const Skills = () => {
     "Postman",
     "Git",
     "Vercel",
-    "Netlify",
     "Render",
   ];
   const db = ["MongoDB", "MySQL", "Firebase", "PostgreSQL"];
