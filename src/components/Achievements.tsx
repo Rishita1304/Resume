@@ -2,7 +2,7 @@ const Achievements = () => {
 
     const achievements = [
         {
-            title: "I have Achieved a Top 5 position in the ByteVerse Hackathon hosted by NIT Patna in 2023.",
+            title: "Achieved a Top 5 position in the ByteVerse Hackathon hosted by NIT Patna in 2023.",
             // description: "Asia's biggest hackathon conducted by MoE's Innovation Cell, developed a blockchain-based application to track farm produce, improving transparency in the supply chain."
         },
         {
