@@ -9,18 +9,18 @@ type HorizontalCardProps = {
 const HorizontalCard = ({ heading, subheading, location, duration, description }: HorizontalCardProps) => {
     return (
         <div className='mb-3'>
-            <div className='flex justify-between'>
+            <div className='flex flex-col py-2 lg:flex-row justify-between py-0 '>
                 <div>
                     <h3 className='font-medium'>{heading}</h3>
                     <div className='font-medium text-gray-600'>{subheading}</div>
                 </div>
-                <div className='text-right'>
-                    <div className='font-medium text-gray-600'>{location}</div>
+                <div className='text-left lg:text-right'>
+                    <div className='font-medium text-gray-600 '>{location}</div>
                     <div className='font-medium text-gray-600'>{duration}</div>
                 </div>
             </div>
             <ul className='list-disc marker:text-gray-600 ml-5 '>
-                {description.map(item => <li className="text-gray-600">{item}</li>)}
+                {description.map(item => <li className="text-sm text-gray-600 lg:text-base">{item}</li>)}
             </ul>
         </div>
     );

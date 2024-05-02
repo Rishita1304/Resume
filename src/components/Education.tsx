@@ -5,7 +5,7 @@ const Education = () => {
     const education = [
         {
             institution: "Dr. A.P.J. Abdul Kalam Technical University",
-            degree: "Bachelor of Technology - B.Tech, Computer Science",
+            degree: "Bachelor of Technology, Computer Science",
             location: "Ghaziabad, Uttar Pradesh",
             duration: "November 2021 - July 2025 (Expected)",
             description: [
@@ -15,7 +15,7 @@ const Education = () => {
         },
         {
             institution: "St. Patrick's Sr. Sec. School",
-            degree: "Senior Secondary - Intermediate, Computer Science",
+            degree: "Senior Secondary - Intermediate",
             location: "Jaunpur, Uttar Pradesh",
             duration: "March 2019 - March 2020",
             description: [
