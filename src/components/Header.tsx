@@ -1,5 +1,5 @@
 import { FaLocationDot } from "react-icons/fa6";
-import { BsTelephoneFill } from "react-icons/bs";
+// import { BsTelephoneFill } from "react-icons/bs";
 import { FaGithub, FaLinkedin, FaEnvelope, FaGlobe } from "react-icons/fa";
 
 const Header = () => {
