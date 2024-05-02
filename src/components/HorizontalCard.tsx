@@ -11,7 +11,7 @@ const HorizontalCard = ({ heading, subheading, location, duration, description }
         <div className='mb-3'>
             <div className='flex justify-between'>
                 <div>
-                    <div className='font-medium'>{heading}</div>
+                    <h3 className='font-medium'>{heading}</h3>
                     <div className='font-medium text-gray-600'>{subheading}</div>
                 </div>
                 <div className='text-right'>
@@ -19,7 +19,7 @@ const HorizontalCard = ({ heading, subheading, location, duration, description }
                     <div className='text-gray-600'>{duration}</div>
                 </div>
             </div>
-            <ul className='list-disc marker:text-gray-600 ml-5'>
+            <ul className='list-disc marker:text-gray-600 ml-5 '>
                 {description.map(item => <li>{item}</li>)}
             </ul>
         </div>

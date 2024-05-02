@@ -14,7 +14,7 @@ const Projects = () => {
             title: "Quizmify - AI-based quiz app",
             url: "https://quizmify.vercel.app",
             stack: "Next.js, OpenAI, NextAuth, Prisma, OAuth",
-            description: " is an AI-powered quiz platform revolutionizing online learning. It offers a scalable, efficient, and engaging environment for creating and taking quizzes.",
+            description: "It is an AI-powered quiz platform revolutionizing online learning. It offers a scalable, efficient, and engaging environment for creating and taking quizzes.",
         },
         {
             title: "ApnaSafar - Hotel Booking Website",
@@ -60,7 +60,7 @@ const ProjectCard = ({ title, url, description,stack}: ProjectCardProps) => {
         <div className='mb-2'>
             <div className='flex gap-2'>
 
-            <div className='font-medium'>{title}</div>
+            <h3 className='font-medium'>{title}</h3>
             <a className='flex font-medium text-gray-600' href={url}>
                 <FiLink className='my-auto mr-0.5 text-[color:var(--primary)]' />
                 Visit 

@@ -6,9 +6,9 @@ const Header = () => {
   return (
     <div className="flex flex-col justify-between mb-5 md:flex-row print:flex-row">
       <div>
-        <div className="mb-1 text-3xl font-medium md:text-4xl">
+        <h1 className="mb-1 text-3xl font-medium md:text-4xl">
           Rishita Srivastava
-        </div>
+        </h1>
         <div className="mb-1 text-lg font-medium text-gray-600">Full Stack Developer</div>
         <a
           className="flex mb-1 font-medium"
