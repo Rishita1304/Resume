@@ -6,7 +6,7 @@ const Experience = () => {
             position: "Project Coordinator",
             company: "Big Data Centre of Excellence",
             location: "Ghaziabad, Uttar Pradesh",
-            duration: "September 2022 - Present (Ongoing)",
+            duration: "September 2022 - Present",
             description: [
                 "Worked with a team of four developers to build the official website of Big Data Center Of Excellence, streamlining the current processes.",
               "Planned and organized more than six events, including workshops, hackathons, and coding contests for college students, with an average of 250 participants per event.",

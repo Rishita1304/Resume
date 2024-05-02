@@ -15,12 +15,12 @@ const HorizontalCard = ({ heading, subheading, location, duration, description }
                     <div className='font-medium text-gray-600'>{subheading}</div>
                 </div>
                 <div className='text-right'>
-                    <div className='text-gray-600'>{location}</div>
-                    <div className='text-gray-600'>{duration}</div>
+                    <div className='font-medium text-gray-600'>{location}</div>
+                    <div className='font-medium text-gray-600'>{duration}</div>
                 </div>
             </div>
             <ul className='list-disc marker:text-gray-600 ml-5 '>
-                {description.map(item => <li>{item}</li>)}
+                {description.map(item => <li className="text-gray-600">{item}</li>)}
             </ul>
         </div>
     );
