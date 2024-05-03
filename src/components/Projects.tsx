@@ -67,8 +67,8 @@ const ProjectCard = ({ title, url, description,stack}: ProjectCardProps) => {
             </a>
             </div>
             <ul className='ml-5 list-disc marker:text-gray-600'>
-                <li className='text-gray-600 text-sm lg:text-base/5'>{description}</li>
-                <li className='text-gray-600 text-sm lg:text-base/5'> Tech Stack: {stack}</li>
+                <li className='text-gray-600 text-sm lg:text-base'>{description}</li>
+                <li className='text-gray-600 text-sm lg:text-base'> Tech Stack: {stack}</li>
             </ul>
         </div>
     );
