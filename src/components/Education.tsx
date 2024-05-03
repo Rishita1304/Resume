@@ -10,7 +10,7 @@ const Education = () => {
             duration: "November 2021 - July 2025 (Expected)",
             description: [
                 "Current SGPA (Avg.) - 8.2",
-                "Courses: Data Structures, Algorithms, DBMS, OS, Software Engineering, Project Management",
+                "Courses: Data Structures, Algorithms, DBMS, OS",
             ]
         },
         {
