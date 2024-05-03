@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedin, FaEnvelope, FaGlobe } from "react-icons/fa";
 
 const Header = () => {
   return (
-    <div className="flex flex-col justify-between mb-5 md:flex-row print:flex-row text-sm lg:text-base">
+    <div className="flex flex-col justify-between mb-5 md:flex-row mb-1 print:flex-row text-sm lg:text-base">
       <div>
         <h1 className="mb-1 text-3xl font-medium md:text-4xl">
           Rishita Srivastava
@@ -20,7 +20,7 @@ const Header = () => {
         </a>
         <div className="flex flex-col md:flex-row print:flex-row">
           <a
-            className="flex mb-1 mr-4 font-medium"
+            className="flex mb-1 mr-4 font-medium lg:mb-0"
             href="mailto:rishitasrivastava04@gmail.com"
           >
             <FaEnvelope className="my-auto mr-1 text-[color:var(--primary)]" />

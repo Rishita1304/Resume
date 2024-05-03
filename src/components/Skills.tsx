@@ -22,7 +22,7 @@ const Skills = () => {
   const db = ["MongoDB", "MySQL", "Firebase", "PostgreSQL"];
 
   return (
-    <section className="mb-5">
+    <section className="mb-5 lg:mb-2.5">
       <h2 className="font-mono font-bold text-[color:var(--primary)]">
         SKILLS
       </h2>

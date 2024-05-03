@@ -28,7 +28,7 @@ const Experience = () => {
   ];
 
   return (
-    <section className="mb-5">
+    <section className="mb-5 lg:mb-2.5">
       <h2 className="font-mono font-bold text-[color:var(--primary)]">POSITION OF RESPONSIBILITY</h2>
       {posres.map((pos) => (
         <HorizontalCard

@@ -38,7 +38,7 @@ const Projects = () => {
     ];
 
     return (
-        <section className='mb-5'>
+        <section className='mb-5 lg:mb-2.5'>
             <h2 className='font-mono font-bold text-[color:var(--primary)]'>PROJECTS</h2>
             {
                 projects.map(project =>
@@ -57,7 +57,7 @@ const Projects = () => {
 
 const ProjectCard = ({ title, url, description,stack}: ProjectCardProps) => {
     return (
-        <div className='mb-2 lg:mb-1'>
+        <div className='mb-2 '>
             <div className='flex gap-2 items-center'>
 
             <h2 className='font-medium py-0.5'>{title}</h2>
@@ -67,8 +67,8 @@ const ProjectCard = ({ title, url, description,stack}: ProjectCardProps) => {
             </a>
             </div>
             <ul className='ml-5 list-disc marker:text-gray-600'>
-                <li className='text-gray-600 text-sm lg:text-base'>{description}</li>
-                <li className='text-gray-600 text-sm lg:text-base'> Tech Stack: {stack}</li>
+                <li className='text-gray-600 text-sm lg:text-base/5'>{description}</li>
+                <li className='text-gray-600 text-sm lg:text-base/5'> Tech Stack: {stack}</li>
             </ul>
         </div>
     );
