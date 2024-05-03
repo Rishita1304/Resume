@@ -7,7 +7,7 @@ const Education = () => {
             institution: "Dr. A.P.J. Abdul Kalam Technical University",
             degree: "Bachelor of Technology, Computer Science",
             location: "Ghaziabad, Uttar Pradesh",
-            duration: "November 2021 - July 2025 (Expected)",
+            duration: "November 2021 - July 2025",
             description: [
                 "Current SGPA (Avg.) - 8.2",
                 "Courses: Data Structures, Algorithms, DBMS, OS",
