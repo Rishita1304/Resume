@@ -17,7 +17,7 @@ const Projects = () => {
         //     description: "It is an AI-powered quiz platform revolutionizing online learning. It offers a scalable, efficient, and engaging environment for creating and taking quizzes.",
         // },
         {
-            title: "Imaginfy - AI-based SaaS platform",
+            title: "ImaginAI - AI-based SaaS platform",
             url: "https://imagin-ai-git-main-rishita1304s-projects.vercel.app/",
             stack: "Next.js, OpenAI, Clerk, Stripe, MongoDB",
             description: "An AI powered image proceesing platform that consolidates advanced image processing tools, secure payment integration, and robust search capabilities, empowering users to effortlessly enhance, manipulate, and manage visual content.",
