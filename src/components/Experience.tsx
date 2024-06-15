@@ -8,7 +8,7 @@ const Experience = () => {
             location: "Ghaziabad, Uttar Pradesh",
             duration: "September 2022 - Present",
             description: [
-                "Worked with a team of four developers to build the official website of Big Data Center Of Excellence, streamlining the current processes.",
+                "Collaborated with a team of four developers to develop and launch the official website for the Big Data Center Of Excellence, enhancing operational efficiency.",
               "Planned and organized more than six events, including workshops, hackathons, and coding contests for college students, with an average of 250 participants per event.",
             //   "Led a team of 6 developers to build a registrar portal and TnP cell portal for a college, streamlining the current processes.",
             ],
@@ -21,8 +21,8 @@ const Experience = () => {
       location: "Remote, Uttar Pradesh",
       duration: "August 2023 - October 2023",
       description: [
-        "Developed an Assessment Platform serving over 500 students, utilizing socket programming for dynamic leaderboards, resulting in a 25% increase in user engagement.",
-        "Implemented load balancing strategies to ensure 90% uptime, even during peak usage, providing a reliable exam experience."
+        "Developed an Assessment Platform for 500+ students using socket programming, achieving a 25% increase in user engagement.",
+        "Implemented load balancing strategies ensuring 90% uptime during peak usage, ensuring reliable exam experiences."
     ],
     },
   ];
