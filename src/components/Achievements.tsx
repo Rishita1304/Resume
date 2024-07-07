@@ -17,7 +17,7 @@ const Achievements = () => {
             <ul className='list-disc marker:text-gray-600 ml-5'>
                 {
                     achievements.map(achievement =>
-                        <li className='mb-1'> <h3 className='font-medium'> {achievement.title}</h3>  </li>
+                        <li className='mb-1'> <h3 className='font-medium'> {achievement.title}</h3></li>
                     )
                 }
             </ul>
